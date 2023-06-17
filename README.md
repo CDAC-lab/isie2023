@@ -1,5 +1,3 @@
-Given the information from the conference, we can contextualize the README for the GitHub repository accordingly. Here is the updated README:
-
 # IEEE-ISIE 2023 Generative AI Tutorials Repository
 
 Welcome to the official repository for the Generative AI tutorials to be held at the IEEE International Symposium on Industrial Electronics (IEEE-ISIE) 2023, from June 19-21, in Helsinki, Finland. This repository provides a set of Google Colab notebooks that are designed as practical, interactive, and engaging learning resources for academia, practicing engineers, and researchers.
