@@ -1,7 +1,3 @@
-Absolutely, here's your updated Readme:
-
----
-
 # Tutorial: ChatGPT, Generative AI and Prompt Engineering for Industrial Applications
 
 Welcome to the tutorial on ChatGPT, Generative AI and Prompt Engineering for Industrial Applications at the IEEE-ISIE 2023 conference. This tutorial is organized by Daswin De Silva, Nishan Mills, and Gihan Gamage from La Trobe University, Victoria, Australia.
