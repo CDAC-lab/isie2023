@@ -1,48 +1,60 @@
-# IEEE-ISIE 2023 Generative AI Tutorials Repository
+Absolutely, here's your updated Readme:
 
-Welcome to the official repository for the Generative AI tutorials to be held at the IEEE International Symposium on Industrial Electronics (IEEE-ISIE) 2023, from June 19-21, in Helsinki, Finland. This repository provides a set of Google Colab notebooks that are designed as practical, interactive, and engaging learning resources for academia, practicing engineers, and researchers.
+---
 
-These tutorials cover both emerging research areas and more established cutting-edge techniques in the field of Generative AI, with a particular emphasis on practical implementations and industrial relevance. The notebooks focus on real-world applications, including:
+# Tutorial: ChatGPT, Generative AI and Prompt Engineering for Industrial Applications
 
-1. Transcribing YouTube videos and querying vector databases.
-2. Generating graphs from CSV files based on prompts.
-3. Processing a folder from Google Drive and querying a vector database.
+Welcome to the tutorial on ChatGPT, Generative AI and Prompt Engineering for Industrial Applications at the IEEE-ISIE 2023 conference. This tutorial is organized by Daswin De Silva, Nishan Mills, and Gihan Gamage from La Trobe University, Victoria, Australia.
 
-All these tutorials are intended to help the audience gain a comprehensive understanding of the technical aspects of Generative AI and its potential applications in the industry.
+The tutorial consists of three Jupyter notebooks that provide a comprehensive guide to the theory and practice of using generative AI models and libraries for the development of industrial applications and solutions. 
 
-## Getting Started
+## Notebooks Included
 
-To begin with these tutorials, you can use either of the following methods:
+1. **Transcription and Query Interface for YouTube Videos**: This notebook takes a YouTube video URL, transcribes it using OpenAI's Whisper ASR API, and then vectorizes and stores the transcription in a ChromaDB vector database. It then uses Langchain to provide a query interface to the vector database.
 
-### Option 1: Open from GitHub in Google Colab
+2. **CSV Data Analysis and Graph Generation**: This notebook reads a CSV file and generates Python code to create a graph based on prompts.
 
-You can open the notebooks directly from GitHub in Google Colab. Follow these steps:
+3. **Google Drive File Analysis and Vector Storage**: This notebook looks at a folder in Google Drive, chunks and stores the embeddings made with OpenAI's DAVinci API in a ChromaDB vector database, and then queries the database using Langchain.
+
+All notebooks are designed to be used with Google Colab, a cloud-based Jupyter notebook environment that requires no setup and runs entirely in the cloud.
+
+## Setup Instructions
+
+### Option 1: Open Directly in Google Colab
+
+1. Click on the Google Colab link provided in the repository to open the notebook.
+
+### Option 2: Load from Github into Google Colab
 
 1. Go to [Google Colab](https://colab.research.google.com/).
-2. Click on the `File` menu.
-3. Select `Open notebook`.
-4. In the pop-up window, navigate to the `GitHub` tab.
-5. Enter the URL of this GitHub repository, and press `Enter`.
-6. A list of notebooks in the repository will appear. Click on any notebook to open it.
+2. Click on the `File` menu, then select `Open notebook`.
+3. In the dialog box that opens, select the `GitHub` tab.
+4. In the search box, paste the GitHub repository URL and press `Enter`.
+5. From the list of notebooks that appear, click on the one you want to open.
 
-### Option 2: Open from Within Google Colab
+### Option 3: Download from Github and Open in Google Colab
 
-Alternatively, you can upload the notebooks to your Google Drive and open them from within Google Colab. Here's how:
+1. Navigate to the main page of the repository.
+2. Click on the `Code` button which is usually towards the right of the page.
+3. Click on `Download ZIP`.
+4. Extract the ZIP file in your local system.
+5. Go to [Google Colab](https://colab.research.google.com/).
+6. Click on `File -> Open notebook`.
+7. In the dialog box that opens, select the `Upload` tab.
+8. Click on `Choose File`, navigate to the extracted folder location, and open the .ipynb file.
 
-1. Download the notebooks from this GitHub repository to your local machine.
-2. Upload them to your Google Drive.
-3. Go to [Google Colab](https://colab.research.google.com/).
-4. Click on the `File` menu.
-5. Select `Open notebook`.
-6. In the pop-up window, navigate to the `Google Drive` tab.
-7. Navigate to the location of the notebooks in your Google Drive and click on a notebook to open it.
+### Note
 
-We hope these tutorials serve as a valuable resource for your journey into the exciting world of Generative AI. Happy learning!
+- You need to have a Google account to use Google Colab.
+- If you are using Google Colab for the first time, you may need to authorize it with your Google account.
 
-## Contact
+## About the Tutorial
 
-If you have any questions or require further assistance, please feel free to reach out. We are here to help.
+The tutorial will cover the theory and practice of using generative AI models and libraries for the development of industrial applications and solutions. It begins by exploring the structural elements of Generative AI models, transformers, hyper-parameters, transfer learning and comparison to standard machine learning algorithms. It then moves on to the application of generative AI for the design, development and evaluation of industrial applications. Participants will develop hands-on skills in using generative AI libraries and acquire a practical understanding of “prompt engineering” for diverse industrial settings. The learning outcomes of this workshop are:
 
-## License
+- Theoretical foundations of Generative AI - when to use and in which settings
+- Design and development of Generative AI models
+- Prompt engineering for diverse use cases
+- Rapid prototyping to evaluation of a suitable Generative AI solution
 
-These tutorials are available under the MIT License. Please see the LICENSE file in this repository for more details【28†source】【29†source】【30†source】.
+Enjoy the tutorial and happy learning!
