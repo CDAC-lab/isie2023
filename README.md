@@ -12,6 +12,8 @@ The tutorial consists of three Jupyter notebooks that provide a comprehensive gu
 
 3. **Google Drive File Analysis and Vector Storage**: This notebook looks at a folder in Google Drive, chunks and stores the embeddings made with OpenAI's DAVinci API in a ChromaDB vector database, and then queries the database using Langchain.
 
+4.  **Prompt Engineering Basics**: This notebook focuses on basics in prompt engineering such as parameters in llms and prompt engineering techniques. 
+
 All notebooks are designed to be used with Google Colab, a cloud-based Jupyter notebook environment that requires no setup and runs entirely in the cloud.
 
 ## Setup Instructions
