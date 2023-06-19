@@ -46,6 +46,12 @@ All notebooks are designed to be used with Google Colab, a cloud-based Jupyter n
 - You need to have a Google account to use Google Colab.
 - If you are using Google Colab for the first time, you may need to authorize it with your Google account.
 
+## About Google Colaboratory
+
+Google Colaboratory (Colab) is a free cloud-based Jupyter notebook environment that allows you to write and execute Python code with zero configuration required. Colab comes with robust integration with Google Drive, GitHub, and many popular machine learning libraries, making your data analysis, machine learning experimentation, or simple Python scripting as seamless as possible. All computations take place on Google's hardware, allowing you to leverage the power of Google's infrastructure, including GPUs and TPUs. You can also share, comment, and collaborate on any of your Colab notebooks, just as you would with Google Docs.
+
+You can find out more about how you can make use of Google Colab [here](https://colab.research.google.com/).
+
 ## About the Tutorial
 
 The tutorial will cover the theory and practice of using generative AI models and libraries for the development of industrial applications and solutions. It begins by exploring the structural elements of Generative AI models, transformers, hyper-parameters, transfer learning and comparison to standard machine learning algorithms. It then moves on to the application of generative AI for the design, development and evaluation of industrial applications. Participants will develop hands-on skills in using generative AI libraries and acquire a practical understanding of “prompt engineering” for diverse industrial settings. The learning outcomes of this workshop are:
