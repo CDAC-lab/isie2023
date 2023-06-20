@@ -16,6 +16,12 @@ The tutorial consists of three Jupyter notebooks that provide a comprehensive gu
 
 All notebooks are designed to be used with Google Colab, a cloud-based Jupyter notebook environment that requires no setup and runs entirely in the cloud.
 
+## Prerequisites
+
+1. An API Key from OpenAI; you can create an OpenAI API key for free. New free trial users receive $5 (USD) worth of credit, which expires after three months. Once your credit has been used up or expired, you can enter billing information to continue using the API. Accounts are unique across phone numbers.
+   
+2. A google account with which to access Google Colab.
+
 ## Setup Instructions
 
 ### Option 1: Open Directly in Google Colab
